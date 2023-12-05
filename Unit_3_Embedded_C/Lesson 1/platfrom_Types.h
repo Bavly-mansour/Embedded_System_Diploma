@@ -3,7 +3,7 @@
    Created by : Bavly Mansour Grant
    This is a PLATFORM_TYPES.h
 */
-#ifdef PLATFROM_TYPES_H //header protection
+#ifndef PLATFROM_TYPES_H //header protection
 #define PLATFROM_TYPES_H
 
 
@@ -11,7 +11,7 @@
 #include <stdint.h>
 
 /*Boolean*/
-#ifdef _Bool  //header protection
+#ifndef _Bool  //header protection
 #define _Bool unsigned char
 #endif // _Bool
 
@@ -20,11 +20,11 @@
 #define CPU_BIT_ORDER       MSB_FIRST
 #define CPU_BYTE_ORDER      HIGH_BYTE_FIRST
 
-#ifdef FLASE
+#ifndef FLASE
 #define FAlSE               (boolean)false
 #endif // FLASE
 
-#ifdef TRUE
+#ifndef TRUE
 #define TRUE                (boolean)true
 #endif // TRUE
 
