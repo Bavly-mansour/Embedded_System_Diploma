@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1703873323 source:c:\users\bavly\desktop\school_linked_list\main.c
+	"school.h"
+
+1703873377 source:c:\users\bavly\desktop\school_linked_list\school.c
+	"school.h"
+
+1703872646 c:\users\bavly\desktop\school_linked_list\school.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<conio.h>
+

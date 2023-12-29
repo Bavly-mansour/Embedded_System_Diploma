@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703524822 source:d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 1\lifo_buffer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lifo.h"
+
+1703506126 d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 1\lifo_buffer\lifo.h
+
+1703506211 source:d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 1\lifo_buffer\lifo.c
+	"lifo.h"
+	"stdio.h"
+	"stdlib.h"
+

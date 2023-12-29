@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1703536143 source:d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 1\fifo_buffer\fifo.c
+	"fifo.h"
+
+1703532793 d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 1\fifo_buffer\fifo.h
+	"stdio.h"
+	"stdint.h"
+
+1703535932 source:d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 1\fifo_buffer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fifo.h"
+
