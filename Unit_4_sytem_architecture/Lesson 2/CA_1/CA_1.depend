@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1704375686 source:d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 2\ca_1\main.c
+	"stdio.h"
+	"stdlib.h"
+	"CA.h"
+
+1704373235 d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 2\ca_1\state.h
+	"stdio.h"
+	"stdlib.h"
+
+1704373235 d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 2\ca_1\ca.h
+	"stdio.h"
+	"stdlib.h"
+	"state.h"
+
+1704374696 source:d:\embedded system diploma\embedded system diploma\system_architechture_unit4\lesson 2\ca_1\ca.c
+	"CA.h"
+	"state.h"
+	<stdio.h>
+	<stdlib.h>
+
